@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.version       = '2.2.36'
   s.summary       = 'TalkingData iOS SDK'
   s.homepage      = 'http://talkingdata.com'
-  s.author        = { 'qpwang' => 'wqqqqq21@gmail.com' }
+  s.author        = { 'hsy' => 'kiki-826@163.com' }
   s.platform      = :ios, '6.0'
   s.source        = {
-      :git => 'https://github.com/qpwang/xg-ios-sdk.git',
+      :git => 'https://github.com/Ursula826/TalkingData.git',
       :tag => 'V2.2.36'
   }
   s.source_files = '*.h'
